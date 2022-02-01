@@ -1,6 +1,6 @@
 <b>Documentação de Plano de Testes 
 
-Pagina Senai – SP (Repositório HomePage) 
+Pagina Senai – SP (Desenho do teste - Repositório HomePage) 
 
 Nathaly Silva Peretto – Curitiba – 2022 </b>
 
