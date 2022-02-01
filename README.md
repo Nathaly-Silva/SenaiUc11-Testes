@@ -8,7 +8,7 @@ Nathaly Silva Peretto – Curitiba – 2022 </b>
 
 <b>Objetivo </b>
 
- Este documento tem como objetivo descrever o plano de testar a navegabilidade da página inicial do site do SENAI – SP (https://online.sp.senai.br).  
+ Este documento tem como objetivo descrever o plano de testar e navegabilidade da página inicial do site do SENAI – SP (https://online.sp.senai.br).  
 
 <b>Escopo  </b>
 
